@@ -63,7 +63,7 @@ pyasn1_modules==0.4.1
 pycparser==2.22
 pycryptodomex==3.23.0
 pyfakefs==5.8.0
-Pygments==2.19.2
+Pygments==2.20.0
 pylsqpack==0.3.22
 pyOpenSSL==25.0.0
 pyparsing==3.2.1
